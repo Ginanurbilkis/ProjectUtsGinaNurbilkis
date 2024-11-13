@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/FacultyGlyphic-Regular.ttf",
+      "sha1": "da1d22a06d05f2201fee3093fd706168fd59e02d"
+    },
+    {
+      "path": "assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    },
+    {
+      "path": "assets/fonts/Sora-VariableFont_wght.ttf",
+      "sha1": "ab160bff12054b3957397f105404895cdd002252"
+    }
+  ]
+}
